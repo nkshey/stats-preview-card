@@ -2,7 +2,7 @@
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+# Table of contents
 
 -  [Overview](#overview)
    -  [The challenge](#the-challenge)
@@ -12,32 +12,32 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
    -  [Built with](#built-with)
 -  [Author](#author)
 
-## Overview
+# Overview
 
-### The challenge
+## The challenge
 
 Users should be able to:
 
 -  View the optimal layout depending on their device's screen size
 
-### Screenshots
+## Screenshots
 
-#### Desktop Preview
+### Desktop Preview
 
 ![](/design/screenshot-desktop.png)
 
-#### Mobile Preview
+### Mobile Preview
 
 ![](/design/screenshot-mobile.png)
 
-### Links
+## Links
 
 -  Solution URL: [Add solution URL here](https://your-solution-url.com)
 -  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## My process
+# My process
 
-### Built with
+## Built with
 
 -  Semantic HTML5 markup
 -  CSS custom properties
@@ -45,7 +45,7 @@ Users should be able to:
 -  CSS Grid
 -  Mobile-first workflow
 
-## Author
+# Author
 
 -  Website - [Nika Peikrishvili](https://www.linkedin.com/in/nikapeikrishvili/)
 -  Frontend Mentor - [@nkshey](https://www.frontendmentor.io/profile/nkshey)
