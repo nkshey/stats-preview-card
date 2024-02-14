@@ -22,11 +22,11 @@ Users should be able to:
 
 ### Screenshots
 
-## Desktop Preview
+#### Desktop Preview
 
 ![](/design/screenshot-desktop.png)
 
-## Mobile Preview
+#### Mobile Preview
 
 ![](/design/screenshot-mobile.png)
 
