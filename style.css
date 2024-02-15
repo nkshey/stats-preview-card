@@ -42,6 +42,7 @@ main {
    max-width: 32.7rem;
    background-color: var(--dark-desaturated-blue);
 
+   margin: 0.8rem;
    border-radius: 0.8rem;
 }
 
@@ -157,9 +158,5 @@ img {
 @media (max-width: 340px) {
    html {
       font-size: 50%;
-   }
-
-   main {
-      margin: 0 0.8rem;
    }
 }
